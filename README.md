@@ -9,7 +9,8 @@ With this frontend you have the functionality ask in the assignment
  - a working navigation menu
 And all the functionalities are working for both rooms and windows 
 
-You can find the backend used at this [link](https://github.com/DiaZork/faircorp)
+You can find the backend used at this [link](https://github.com/DiaZork/faircorp) in case of this
+[link](https://faircorp-application.cleverapps.io/) not working properly.
 
 ## Project setup
 ```
